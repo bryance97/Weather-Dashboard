@@ -1,26 +1,27 @@
-.container{
-    background-color: grey;
-}
 .container-fluid {
-    background-color: green;
+  background-color: green;
+}
+
+.container {
+  background-color: grey;
 }
 
 .current-info {
-    height: 25vh;
+  height: 25vh;
 }
 
 .five-day-info {
-    height: 35vh;
+  height: 35vh;
 }
 
 .low {
-    background-color: green;
+  background-color: green;
 }
 
 .moderate {
-    background-color: yellow;
+  background-color: yellow;
 }
 
 .high {
-    background-color: red;
+  background-color: red;
 }
