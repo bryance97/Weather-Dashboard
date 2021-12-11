@@ -1,3 +1,9 @@
 .container-fluid {
-    background-color: blue;
+    background-color: green;
+}
+.current-info {
+    height: 25vh;
+}
+.five-day-info {
+    height: 35vh;
 }
